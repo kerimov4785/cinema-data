@@ -495,36 +495,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=pJiGegq9pm4",
       "active": true,
       "preSale": false
-    },
-    {
-      "id": "64de",
-      "name": "12",
-      "image": "12",
-      "languages": [
-        "12"
-      ],
-      "year": "12",
-      "description": "1"
-    },
-    {
-      "id": "399c",
-      "name": "12",
-      "image": "12",
-      "languages": [
-        "12"
-      ],
-      "year": "12",
-      "description": "3"
-    },
-    {
-      "id": "edf7",
-      "name": "12",
-      "image": "12",
-      "languages": [
-        "12"
-      ],
-      "year": "12",
-      "description": "4"
     }
   ],
   "theatre": [
