@@ -1689,5 +1689,10 @@
       "active": true
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email":"nihat@gmail.com",
+      "password":"12345"      
+    }
+  ]
 }
