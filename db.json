@@ -1692,7 +1692,10 @@
   "users": [
     {
       "email":"nihat@gmail.com",
-      "password":"12345"      
+      "password":"12345",
+      "name":"Nihat",
+      "surname":"Kerimov",
+      "phone":"503303445"      
     }
   ]
 }
